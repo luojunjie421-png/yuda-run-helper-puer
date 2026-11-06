@@ -1,0 +1,18 @@
+{
+  "name": "云南农业大学普洱倚象校区",
+  "school_id": null,
+  "zone_id": null,
+  "min_distance_m": 1000,
+  "min_pace_sec_per_km": 180,
+  "max_pace_sec_per_km": 600,
+  "face_required_local": false,
+  "checkpoint_order": "free",
+  "reference_track": "puer-reference.gpx",
+  "track_coordinates": "WGS84",
+  "checkpoint_coordinates": "GCJ02_assumed_from_Apple_Map_alignment",
+  "official_radius_m": null,
+  "checkpoints": [
+    {"label": "点1 · 东侧参考点", "latitude": 22.744520, "longitude": 101.038602, "point_id": null},
+    {"label": "点2 · 西侧参考点", "latitude": 22.744634, "longitude": 101.037858, "point_id": null}
+  ]
+}

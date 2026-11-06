@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">权哥帮你跑-云农大</string>
+    <string name="app_version">v1.0.58-puer.7</string>
+    <!-- ★ v1.0.31：首页右上角那行小字（原文由用户给定，不要自作主张改写） -->
+    <string name="run_time_rule">普洱倚象校区 · 时段以平台规则为准</string>
+</resources>
